@@ -1,0 +1,17 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carlao",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {
+    "@types/pg": "^7.14.2"
+  }
+}
